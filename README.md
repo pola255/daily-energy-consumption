@@ -1,2 +1,1 @@
-# daily-energy-consumption
-Daily energy consumption in London
+# Daily energy consumption in London
